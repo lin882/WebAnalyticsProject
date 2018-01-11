@@ -1,6 +1,6 @@
 WebAnalyticsProject
 =====================
-MGMT 590 Web Data Analytics final project
+MGMT 590 Web Data Analytics final.
 We analyzed the correlation between mutual fund investment decision and earning call transcripts.
 
 # Instruction for running web scraping and correlation analysis
