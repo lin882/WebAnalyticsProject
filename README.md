@@ -10,8 +10,11 @@ We analyzed the correlation between mutual fund investment decision and earning 
 
 
 # File list
-1. Data file: 202_dataset_advancescapital. `202_dataset_advancescapital.csv`
-2. 
+1. Data file: `202_dataset_advancescapital.csv`
+2. Python code (Jupyter Notebook): `202_AddandDrops.ipynb`, `202_TranscriptScrapper.ipynb`, `202_GoogleNaturelLanguageProcessing.ipynb`
+3. R code: `202_LogitModel.R`
+4. Final report: `202_Earning Call Insights-Presentation.pptx`, `202_Executive Summary_idea2.docx`
+
 
 # Contributor
 * Shan Lin
